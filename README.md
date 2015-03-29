@@ -1,2 +1,4 @@
-# free-fall
-homework assigment about compare free fall w/t aird drag
+# Free-fall
+homework assigment 
+
+Compare free falling time of an object w/ttaking into acount resistance from air drag
